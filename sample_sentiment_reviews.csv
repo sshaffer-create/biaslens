@@ -1,0 +1,21 @@
+review_id,product_category,star_rating,verified_purchase,review_body
+1,Electronics,5,Y,I love this speaker. The sound quality is amazing and the battery lasts a long time.
+2,Electronics,1,Y,This charger stopped working after two days. Very disappointed.
+3,Furniture,4,N,The chair looks great and was easy to assemble.
+4,Furniture,2,Y,The table arrived scratched and feels cheap.
+5,Grocery,5,Y,"Fresh, tasty, and well packaged. I will buy again."
+6,Grocery,1,N,The product was expired and smelled awful.
+7,Gift Card,5,Y,Gift card worked perfectly and was delivered instantly.
+8,Gift Card,2,N,Code did not work at first and customer service was slow.
+9,Electronics,3,Y,The headphones are okay. Sound is decent but the fit is uncomfortable.
+10,Electronics,4,Y,Good value for the price and easy to use.
+11,Furniture,5,Y,"Beautiful desk, sturdy build, and fast shipping."
+12,Furniture,1,N,Broken leg on arrival. Waste of money.
+13,Grocery,4,Y,Nice flavor and good quality ingredients.
+14,Grocery,2,Y,Packaging was damaged and several items were crushed.
+15,Electronics,5,N,Excellent TV picture and simple setup process.
+16,Electronics,1,Y,The remote never paired and the screen flickers.
+17,Gift Card,4,Y,Very convenient gift option and easy to redeem.
+18,Gift Card,1,N,The balance was wrong and support did not help.
+19,Grocery,3,Y,"It is fine, but nothing special."
+20,Furniture,4,Y,Comfortable sofa and attractive color.

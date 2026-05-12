@@ -1,0 +1,39 @@
+{
+    "dog": {
+        "name": "Max",
+        "breed": "French Mastiff",
+        "age": 5.0,
+        "weight": 170.0,
+        "size": "Large",
+        "hunger": 89,
+        "happiness": 100,
+        "energy": 90,
+        "health": 96,
+        "feed_count": 3,
+        "walk_count": 2,
+        "play_count": 4,
+        "rest_count": 4,
+        "vet_count": 0,
+        "care_score": 95,
+        "day": 15,
+        "room_x": 292,
+        "room_y": 105
+    },
+    "history": [
+        "Created profile for Max.",
+        "You fed Max.",
+        "You played with Max.",
+        "You fed Max.",
+        "You walked Max.",
+        "Max took a rest.",
+        "You played with Max.",
+        "Max took a rest.",
+        "Max took a rest.",
+        "You played with Max.",
+        "You walked Max.",
+        "You played with Max.",
+        "Max took a rest.",
+        "You fed Max.",
+        "Your dog is healthy and does not need a vet visit."
+    ]
+}

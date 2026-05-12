@@ -1,0 +1,6 @@
+#Variable
+#USD to NRS
+#Conversion app
+#$1 = 144 NRS
+
+Amount = input("What USD

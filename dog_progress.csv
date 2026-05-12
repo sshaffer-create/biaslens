@@ -1,0 +1,7 @@
+Name,Breed,Age,Weight,Size,Health,Happiness,Energy,Day,Care Score,Feed Count,Walk Count,Play Count,Rest Count,Vet Count,Owner Rank
+nala,lab,1.0,11.0,Small,80,70,70,1,50,0,0,0,0,0,Learning Owner
+nala,lab,1.0,11.0,Small,96,100,48,8,85,1,2,2,1,0,Expert Dog Parent
+Jaxson,Boxer,7.0,90.0,Large,92,100,76,23,95,6,3,3,3,0,Expert Dog Parent
+nala,lab,1.0,23.0,Medium,80,70,70,1,50,0,0,0,0,0,Learning Owner
+Max,French Mastiff,5.0,170.0,Large,96,100,90,15,95,3,2,4,4,0,Expert Dog Parent
+Max,French Mastiff,5.0,170.0,Large,96,100,90,15,95,3,2,4,4,0,Expert Dog Parent

@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm files
+.idea/
+
+# Sensitive files
+my_secrets.py
+keys.json
+pawpal-494021-e14aeb559ac9.json
+PawPal Game/pawpal-494021-e14aeb559ac9.json
+
+# Optional (generated files)
+*.mp3
+*.pdf
